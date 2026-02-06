@@ -1,32 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sherzodbek Yusupov</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h1 align="center">
+  Hi 👋, I'm Muhammad Solih
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Junior+Software+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Learning+by+Building+Real+Projects;Open+for+Collaboration" />
+</h3>
 
 <p align="center">
-🌱 Learning JavaScript, TypeScript & React <br/>
-💻 Building real projects every day <br/>
-🚀 Open for collaboration
+  <img src="https://komarev.com/ghpvc/?username=muhammadsolih30&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+### 🧠 About Me
+- 💻 Junior Software Developer  
+- 🌱 Learning **JavaScript, TypeScript & Node.js**
+- 🔥 Focused on **real-world projects**
+- 🚀 Open for collaboration & growth
 
 ---
 
 ### 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,git,github&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsolih30&show_icons=true&theme=tokyonight" />
+### ⚡ GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsolih30&show_icons=true&theme=radical" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolih30&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsolih30&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolih30&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📫 Contact Me
-- Telegram: "https://t.me/Sherzodbek_Yusupov"
-- GitHub: **@sherxonbek**
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/muhammadsolih30"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
