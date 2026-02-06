@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&lines=Sherzodbek+Yusupov"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&center=true&vCenter=true&width=700&lines=Sherzodbek+Yusupov"
     alt="Sherzodbek Yusupov"
   />
-</h1>
+</h1> -->
 
 <h1 align="center">
   <img 
