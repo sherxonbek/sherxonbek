@@ -17,14 +17,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadsolih30&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sherxonbek&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🧠 About Me
 - 💻 Junior Software Developer  
-- 🌱 Learning **JavaScript, TypeScript & Node.js**
+- 🌱 Learning **JavaScript, TypeScript & React.js**
 - 🔥 Focused on **real-world projects**
 - 🚀 Open for collaboration & growth
 - 🧩 I learn by **building, breaking, and fixing**
@@ -33,7 +33,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github&perline=8" />
 </p>
 
 ---
@@ -44,11 +44,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsolih30&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sherxonbek&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolih30&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherxonbek&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
   <a href="https://t.me/username">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/muhammadsolih30">
+  <a href="https://github.com/sherxonbek">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
