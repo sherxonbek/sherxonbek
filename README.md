@@ -3,6 +3,13 @@
 </p>
 
 <h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&center=true&vCenter=true&width=700&lines=Sherzodbek+Yusupov"
+    alt="Sherzodbek Yusupov"
+  />
+</h1>
+
+<h1 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Sherzodbek+Yusupov;Junior+Software+Developer;Building+Real+Projects;Always+Learning+%26+Improving" 
     alt="Typing SVG" 
