@@ -40,15 +40,7 @@
 
 ### ⚡ GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherxonbek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sherxonbek&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherxonbek&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sherxonbek&show_icons=true&theme=radical&hide_border=true&v=1" />
 </p>
 
 ---
