@@ -40,9 +40,8 @@
 
 ### ⚡ GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-git-master-sherxons-projects.vercel.app/api?username=sherxonbek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-master-sherxons-projects.vercel.app/api?username=sherxonbek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=2" />
 </p>
-
 
 ---
 
