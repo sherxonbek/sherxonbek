@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sherzodbek Yusupov</h1>
+<h3 align="center">Junior Software Developer</h3>
 
-<!--
-**sherxonbek/sherxonbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌱 Learning JavaScript, TypeScript & React <br/>
+💻 Building real projects every day <br/>
+🚀 Open for collaboration
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsolih30&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsolih30&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- Telegram: "https://t.me/Sherzodbek_Yusupov"
+- GitHub: **@sherxonbek**
